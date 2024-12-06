@@ -14,7 +14,7 @@ Dentro do projeto, crie a classe ParametrosInvalidosException que representará 
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
+- `src`: https://github.com/Rodrigoapsousa/DesafioControleFluxoDio/tree/main/.vscode
 - `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
